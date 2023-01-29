@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yogitheboss
 - 👀 I’m enrolled in b-tech computer science
-- 🌱 I’m currently learning expressjs and mongodb
-- 💞️ I’m looking to collaborate on file management
+- 🌱 I’m currently learning web scraping and react
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 you can reach me  through email yograjrjpt123@gmail.com
 
 <!---
